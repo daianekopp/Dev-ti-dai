@@ -1,2 +1,2 @@
 # Dev-ti-dai
-Reposiorio
+Repositorio
